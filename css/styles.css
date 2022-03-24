@@ -3,7 +3,9 @@
 }
 
 html {
-    max-width: 1000px;;
+    max-width: 1000px;
+    margin: 0px;
+    padding: 0px;
 }
 
 .first {
