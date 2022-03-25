@@ -2,9 +2,10 @@
     box-sizing: border-box;
 }
 
-html {
+html,body {
     max-width: 1000px;
-    margin: 0px;
+    margin-top: 0px;
+    margin-left: 300px;
     padding: 0px;
 }
 
@@ -168,10 +169,10 @@ a:hover {
 
 .call-to-action {
     margin-left: 125px;
-    max-width: 700px;
+    max-width: 500px;
     display: flex;
     flex-direction: column;
-    text-align: center;
+    text-align: left;
     margin-top: 10px;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -194,14 +195,14 @@ a:hover {
 
 .btn-2 {
     float: right;
-    margin-right: 300px;
+    margin-right: 85px;
     margin-top: -95px;
     margin-bottom: 10px;
-    width: 100px;
-    height: 55px;
+    width: 80px;
+    height: 35px;
     background-color: brown;
     color: white;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 footer {
