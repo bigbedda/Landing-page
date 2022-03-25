@@ -149,6 +149,8 @@ a:hover {
 .quote {
     font-size: 46px;
     font-style: italic;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .quoter {
